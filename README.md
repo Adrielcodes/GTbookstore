@@ -1,1 +1,3 @@
 The Geek Text API Service for Online Bookstore, launched in July 2023, showcases leadership in designing a user profile management system, enabling seamless registration, login, and profile updates. Leveraging Node.js, Express, MySQL, and JWT, it ensures robust security and optimized performance. Agile methodologies like Scrum were employed for efficient development, resulting in a user-centric platform for book lovers worldwide.
+
+**CLICK ON GTbookstore Folder to see the comprehensive documentation, codebase, and project assets related to the development of the Geek Text API Service for Online Bookstore.**
