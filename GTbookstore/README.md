@@ -10,16 +10,7 @@ Visit [geektext.netlify.app](https://geektext.netlify.app/) to see it live.
 
 <img alt="demo" src="demo.gif" height="auto"/>
 
-## Development Team
 
-Below are the developers of this project and their assigned features.
-
-- [Andrew Andersen](https://github.com/pandamon99) (Book Browsing and Sorting)
-- [Azhar Ali](https://github.com/azhareus) (Book Rating and Commenting)
-- [Celeste Amengual](https://github.com/celesteamen) (Wishlist Management)
-- [Jonathan Attias Khoudari](https://github.com/jattias96) (Book Details)
-- [Leanet Alfonso Azcona](https://github.com/leanetalfonso) (Shopping Cart)
-- [William Aranzabal](https://github.com/cab-aranw) (Profile Management)
 
 ## Features
 
